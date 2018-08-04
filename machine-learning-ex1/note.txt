@@ -1,0 +1,9 @@
+1. function returnName = functionName(inputs)
+	something;
+   end
+
+2. for i = 1:length
+	something;
+   end
+
+3. 
